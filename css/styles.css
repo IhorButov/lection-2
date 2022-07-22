@@ -3,5 +3,5 @@ body {font-family: 'Open Sans', sans-serfi}
     font-size: 12px;
     line-height: 1.33;
     letter-spacing: 0.1em;
-    color: #FFFFFF;}
-.link {}
+    color: #f00f0f;}
+.header > a {background-color: aqua;}
