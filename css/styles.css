@@ -4,4 +4,8 @@ body {font-family: 'Open Sans', sans-serfi}
     line-height: 1.33;
     letter-spacing: 0.1em;
     color: #f00f0f;}
-.header > a {background-color: aqua;}
+/* .header > a {background-color: aqua;}
+.hero-pre-title + h1 {color: chartreuse;}
+.header-item ~ .header-item {background-color: darkgoldenrod;} */
+.list {list-style: none;}
+.header-list.list  {list-style: lower-greek;}
